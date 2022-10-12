@@ -1,8 +1,8 @@
 ## Bakery Menu List By using ReactJs
 
-Presenting menu to  customer online fantasy
-
-Dynamic button approach
+  Presenting menu to  customer online fantasy
+  
+  Dynamic button approach
 
 Filter option 
 
