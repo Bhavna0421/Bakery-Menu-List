@@ -7,7 +7,7 @@
 Filter option 
 
 Mobility ( Responsive)
-![image](https://user-images.githubusercontent.com/98327416/195243853-594bfeee-c719-4f20-a31a-78ad9dc8f98e.png)
+
 
 
 I also took an efforts on making good UI.
